@@ -1,2 +1,0 @@
-# LiquidBounceConfigs
-soonTM
